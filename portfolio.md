@@ -41,7 +41,9 @@ Yes, not very original. Quite the opposite, probably the most popular card game 
 The reason for which i’ve decided to write this app is that, although Tab-Extractor is a real-world stand-on-its-own app, it is quite unsophisticated.
 
 So a multi user interactive app, with reasonably complex states and logic, seemed a good way to go. One important aspect was learning gameKit api and integrating it with the swiftUI framework.
-The most disappointing thing about this game was the inability to publish it on the App Store, because private individuals are no longer able to publish gambling content, even if simulated. And I ended up building it for macOS, adapting some code from UIKit to AppKit. Got into a whole new Territory with signing, certificates, notarizing and publishing profiles.
+
+The game is available as macOS notarized app, since gambling content can no longer be submitted by privateindividuals on the AppStore.
+
 - gameKit integration
 - Task concurrency, async methods • push notifications
 - Design patterns
@@ -83,7 +85,7 @@ Intervals is an interactive musical game, built for iOS, to test and train the e
 
 I’ve graduated the Automatics and Computer Science faculty within the Polytechnic University of Bucharest in 2011.
 
-After graduating, because of my vision loss, I could no longer use and operate computers normally. So I had to do something, made a career switch, became a massage therapist and started practicing.
+After graduating, because of my vision loss, I could no longer use and operate computers normally. So I had to do something, made a career switch, became a therapist and started practicing.
 This stage is irrelevant for the purpose of the career I’m seeking, but i felt I had to mention this fact. So after years of getting more and more skilled with computers using accessibility tools, I’ve decided to turn to my true passion, and started coding.
 
 While my personal experience with disability has given me a unique perspective, my apps are designed to be useful for anyone who needs them. I am passionate about making software that is inclusive and accessible to everyone.

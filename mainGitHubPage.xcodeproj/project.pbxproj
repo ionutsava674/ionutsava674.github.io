@@ -13,7 +13,6 @@
 		C679D5342994402F00626F76 /* icons */ = {isa = PBXFileReference; lastKnownFileType = folder; path = icons; sourceTree = "<group>"; };
 		C679D5352994405500626F76 /* _config.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = _config.yml; sourceTree = "<group>"; };
 		C69CD7DB29ACEC6C00432258 /* img */ = {isa = PBXFileReference; lastKnownFileType = folder; path = img; sourceTree = "<group>"; };
-		C69CD7DC29ACF85100432258 /* CoverLetter.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = CoverLetter.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,7 +34,6 @@
 				C679D5342994402F00626F76 /* icons */,
 				C679D533299438A000626F76 /* index.md */,
 				C62B711F299A6E4A00AA5057 /* portfolio.md */,
-				C69CD7DC29ACF85100432258 /* CoverLetter.md */,
 				C679D522299434DB00626F76 /* Products */,
 			);
 			sourceTree = "<group>";
