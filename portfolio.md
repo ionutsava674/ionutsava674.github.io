@@ -3,8 +3,8 @@
 <img src="img/ResumePhotoClipped.png" alt="my photo" style="width: 200px; float: right; margin: 25px;">
 
 I am pleased to present my app portfolio, which showcases my experience and expertise in software development.
-My name is Ionut Sava, and I am a 37-year-old software developer based in Romania.
-I have been developing apps for several years, and my portfolio includes several applications, some of which are available on the AppStore. My apps are designed to solve real-world problems and deliver a great user experience. With my skills and experience, I am confident that I can make a valuable contribution to your team.–
+My name is Ionut Sava, and I am a software developer based in Romania.
+I have been developing apps for several years, and my portfolio includes several applications, some of which are available on the AppStore. My apps are designed to solve real-world problems and deliver a great user experience. 
 
 --
 
@@ -41,12 +41,13 @@ Yes, not very original. Quite the opposite, probably the most popular card game 
 The reason for which i’ve decided to write this app is that, although Tab-Extractor is a real-world stand-on-its-own app, it is quite unsophisticated.
 
 So a multi user interactive app, with reasonably complex states and logic, seemed a good way to go. One important aspect was learning gameKit api and integrating it with the swiftUI framework.
-
-The game is available as macOS notarized app, since gambling content can no longer be submitted by privateindividuals on the AppStore.
+The game is available as macOS notarized app, since gambling content can no longer be submitted by privateindividuals on the AppStore .
 
 - gameKit integration
 - Task concurrency, async methods • push notifications
+- signing, certificates, notarizing and publishing profiles
 - Design patterns
+- push notifications
 - Multilanguage and localization
 
 [Source code](https://github.com/ionutsava674/Friendly-Holdem-for-mac)
@@ -71,30 +72,15 @@ It is a windows app written in C#. What it does is allow you to take a screensho
 ### [**4. Intervals**](https://ionutsava674.github.io/intervals/)
 
 <img src="icons/intervalsIcon.png" alt="Intervals icon" style="width: 100px; float: left; margin: 15px;">
-Intervals is an interactive musical game, built for iOS, to test and train the ear to recognize musical scales. The app plays two different notes, and you have to guess the relative distance. An easy app, built around AVFoundation. Fun to built and fun to use.
+Intervals Zone is an interactive musical game, built for iOS, to test and train the ear to recognize musical scales. The app plays musical patterns, and users have to identify the relative distance. An easy app, built around AVFoundation.
+It is an iOS edutainment app for training musical ear and improving skills - Created the entire project from zero to published product
+- Built using AVFoundation
 
 [Source code](https://github.com/ionutsava674/intervals)
 
-[View on the AppStore](https://apps.apple.com/in/app/intervals-zone/id1669574204)
+[Get on the AppStore](https://apps.apple.com/in/app/intervals-zone/id1669574204)
 
 <br />
-
-## About me
-
-### Bio and education
-
-I’ve graduated the Automatics and Computer Science faculty within the Polytechnic University of Bucharest in 2011.
-
-After graduating, because of my vision loss, I could no longer use and operate computers normally. So I had to do something, made a career switch, became a therapist and started practicing.
-This stage is irrelevant for the purpose of the career I’m seeking, but i felt I had to mention this fact. So after years of getting more and more skilled with computers using accessibility tools, I’ve decided to turn to my true passion, and started coding.
-
-While my personal experience with disability has given me a unique perspective, my apps are designed to be useful for anyone who needs them. I am passionate about making software that is inclusive and accessible to everyone.
-
-Over the past two years, I have been focusing on iOS development using the SwiftUI framework. I have found this area of software development to be both challenging and rewarding, and I am always looking for new ways to improve my skills.
-
-And I want to do so by showing some concrete projects that I’ve worked on and invested in.
-
-
 
 ### skills
 
@@ -103,21 +89,16 @@ And I want to do so by showing some concrete projects that I’ve worked on and 
 - IDEs: xcode; Visual Studio; vs code
 - Git version control
 - Database: Core Data; SQL
-- self motivated, self learner and high work ethic
-- Good communication, excellent english (verbal and written) • Problem solving
-- Adaptability
-- Accountability
+- prior experience with microcontrollers: Atmega AVR architecture, low-level storage & networking, experience with AVR Studio
 - DevOps knowledge
-
---
-
-### Hobbies and interests
-
-In my free time I like to play the eDrum set, a bit of guitar, home recording studio mixing and mastering. Do song covers with a couple of friends.
-
-And I enjoy audiobooks a lot.
-
-
+- development ability according to Agile/ Waterfall Methodology
+- self motivated, self learner and high work ethic
+- problem solving, decision making and ability to manage time independently
+- flexible and easily adaptable to new situations
+- excellent communication skills (in Romanian/ English) with both technical and non-technical peers
 
 ### Contact details
+
+To get in touch, you can reach me at
+[ionut.sava.8](mailto:ionut.sava.8@gmail.com)
 
