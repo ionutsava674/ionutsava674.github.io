@@ -1,6 +1,6 @@
 #  Ionut Sava - App portfolio
 
-<img src="img/ResumePhotoClipped.png" alt="my photo" style="width: 112px; float: right; margin: 25px;">
+<img src="img/ResumePhotoClipped.png" alt="my photo" style="width: 128px; float: right; margin: 25px;">
 
 I am pleased to present my app portfolio, which showcases my experience and expertise in software development.
 My name is Ionut Sava, and I am a software developer based in Romania.
