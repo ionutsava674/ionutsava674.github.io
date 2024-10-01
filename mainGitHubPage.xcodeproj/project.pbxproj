@@ -6,6 +6,12 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		C6F200CE2CABD7E5002E05D4 /* memoroute_faq_2.html in Resources */ = {isa = PBXBuildFile; fileRef = C6F200CB2CABD7E5002E05D4 /* memoroute_faq_2.html */; };
+		C6F200CF2CABD7E5002E05D4 /* memoroute_privacy.html in Resources */ = {isa = PBXBuildFile; fileRef = C6F200CC2CABD7E5002E05D4 /* memoroute_privacy.html */; };
+		C6F200D02CABD7E5002E05D4 /* memoroute_tos.html in Resources */ = {isa = PBXBuildFile; fileRef = C6F200CD2CABD7E5002E05D4 /* memoroute_tos.html */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		C62B711F299A6E4A00AA5057 /* portfolio.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = portfolio.md; sourceTree = "<group>"; };
 		C679D521299434DB00626F76 /* mainGitHubPage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mainGitHubPage.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -13,6 +19,9 @@
 		C679D5342994402F00626F76 /* icons */ = {isa = PBXFileReference; lastKnownFileType = folder; path = icons; sourceTree = "<group>"; };
 		C679D5352994405500626F76 /* _config.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = _config.yml; sourceTree = "<group>"; };
 		C69CD7DB29ACEC6C00432258 /* img */ = {isa = PBXFileReference; lastKnownFileType = folder; path = img; sourceTree = "<group>"; };
+		C6F200CB2CABD7E5002E05D4 /* memoroute_faq_2.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = memoroute_faq_2.html; sourceTree = "<group>"; };
+		C6F200CC2CABD7E5002E05D4 /* memoroute_privacy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = memoroute_privacy.html; sourceTree = "<group>"; };
+		C6F200CD2CABD7E5002E05D4 /* memoroute_tos.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = memoroute_tos.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -34,6 +43,9 @@
 				C679D5342994402F00626F76 /* icons */,
 				C679D533299438A000626F76 /* index.md */,
 				C62B711F299A6E4A00AA5057 /* portfolio.md */,
+				C6F200CB2CABD7E5002E05D4 /* memoroute_faq_2.html */,
+				C6F200CC2CABD7E5002E05D4 /* memoroute_privacy.html */,
+				C6F200CD2CABD7E5002E05D4 /* memoroute_tos.html */,
 				C679D522299434DB00626F76 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -104,6 +116,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C6F200CE2CABD7E5002E05D4 /* memoroute_faq_2.html in Resources */,
+				C6F200CF2CABD7E5002E05D4 /* memoroute_privacy.html in Resources */,
+				C6F200D02CABD7E5002E05D4 /* memoroute_tos.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
