@@ -27,10 +27,23 @@
 			);
 			target = C679D520299434DB00626F76 /* mainGitHubPage */;
 		};
+		C6A86AA82CB3F83D009E2AFD /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				appLogo.png,
+				index.html,
+				index3.html,
+				privacypolicy.html,
+				webDark_appLogo.png,
+				webLight_appLogo.png,
+			);
+			target = C679D520299434DB00626F76 /* mainGitHubPage */;
+		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		C69E06682CAFFEC900B52973 /* memoroute */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (C69E06692CAFFECA00B52973 /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = memoroute; sourceTree = "<group>"; };
+		C6A86A9F2CB3F7FE009E2AFD /* theratime */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (C6A86AA82CB3F83D009E2AFD /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = theratime; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +65,7 @@
 				C679D5342994402F00626F76 /* icons */,
 				C679D533299438A000626F76 /* index.md */,
 				C62B711F299A6E4A00AA5057 /* portfolio.md */,
+				C6A86A9F2CB3F7FE009E2AFD /* theratime */,
 				C69E06682CAFFEC900B52973 /* memoroute */,
 				C679D522299434DB00626F76 /* Products */,
 			);
