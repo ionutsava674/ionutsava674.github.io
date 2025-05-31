@@ -19,31 +19,6 @@ Guitar tabs found on the internet can be difficult for visually impaired individ
 
 <br />
 
-## [**Friendly Hold'em**](https://ionutsava674.github.io/Friendly-Holdem-for-mac/)
-
-<img src="icons/fh128x128.png" alt="Friendly Holdem icon" style="width: 100px; float: left; margin: 15px;">
-The very popular game of Texas Hold'em Poker.
-
-Written for the SwiftUI framework, the app utilizes GameKit to provide a seamless gaming experience.
-
-<br />
-
-
-
-* macOS and iOS targets.
-* Push Notifications entitlement for turn based match events.
-
-#### Links
-
-[_Download for macOS_](https://github.com/ionutsava674/Friendly-Holdem-for-mac/releases/download/v1.1/FriendlyHoldem.dmg)
-V 1.1
-
-[Visit page](https://ionutsava674.github.io/Friendly-Holdem-for-mac/)
-
-[Go to repo](https://github.com/ionutsava674/Friendly-Holdem-for-mac)
-
-<br />
-
 ## [**Contrast Enhancer**](https://ionutsava674.github.io/ContrastEnhancer/)
 
 <img src="icons/ce128x128.png" alt="Contrast Enhancer icon" style="width: 100px; float: left; margin: 15px;">
@@ -74,8 +49,33 @@ Intervals is an interactive musical game, built for iOS, to test and train the e
 
 <br />
 
+## [**Friendly Hold'em**](https://ionutsava674.github.io/Friendly-Holdem-for-mac/)
+
+<img src="icons/fh128x128.png" alt="Friendly Holdem icon" style="width: 100px; float: left; margin: 15px;">
+The very popular game of Texas Hold'em Poker.
+
+Written for the SwiftUI framework, the app utilizes GameKit to provide a seamless gaming experience.
+
+<br />
+
+
+
+* macOS and iOS targets.
+* Push Notifications entitlement for turn based match events.
+
+#### Links
+
+[_Download for macOS_](https://github.com/ionutsava674/Friendly-Holdem-for-mac/releases/download/v1.1/FriendlyHoldem.dmg)
+V 1.1
+
+[Visit page](https://ionutsava674.github.io/Friendly-Holdem-for-mac/)
+
+[Go to repo](https://github.com/ionutsava674/Friendly-Holdem-for-mac)
+
+<br />
+
 --
 
-2023
+2025
 
 Ionut Sava
