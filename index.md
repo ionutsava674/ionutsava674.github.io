@@ -19,6 +19,36 @@ Guitar tabs found on the internet can be difficult for visually impaired individ
 
 <br />
 
+## [**Memoroute**](https://ionutsava674.github.io/memoroute/)
+
+<img src="icons/mr_appLogo.png" alt="Memoroute icon" style="width: 100px; float: left; margin: 15px;">
+Unlock your climbing potential with MemoRoute, the ultimate memory training app designed specifically for rock climbers. MemoRoute helps you enhance your route memorization skills, spatial awareness, and cognitive abilities to tackle any climb with confidence.
+
+
+
+#### Links
+
+[_Get on the app store_](https://apps.apple.com/app/memoroute/id6736368659)
+
+[Visit page](https://ionutsava674.github.io/memoroute/)
+
+<br />
+
+## [**Theratime**](https://ionutsava674.github.io/theratime/)
+
+<img src="icons/tt_appLogo.png" alt="Theratime icon" style="width: 100px; float: left; margin: 15px;">
+TheraTime is designed for massage therapists who want to manage session time without visual or audible distractions. While this app is especially valuable for visually impaired professionals, it provides an intuitive, hands-free time tracking experience that benefits all therapists, helping you focus fully on your clients.
+
+
+
+#### Links
+
+[_Get on the app store_](https://apps.apple.com/app/theratime/id6736572790)
+
+[Visit page](https://ionutsava674.github.io/theratime/)
+
+<br />
+
 ## [**Contrast Enhancer**](https://ionutsava674.github.io/ContrastEnhancer/)
 
 <img src="icons/ce128x128.png" alt="Contrast Enhancer icon" style="width: 100px; float: left; margin: 15px;">
